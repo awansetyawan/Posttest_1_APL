@@ -1,7 +1,7 @@
 # Posttest_1_APL
 
 Nama  : Alif Maulana Setyawan\
-NIM   : 21091066002\
+NIM   : 2109106002\
 Kelas : A\
 Prodi : Informatika
 
